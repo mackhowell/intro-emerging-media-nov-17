@@ -1,7 +1,7 @@
 # Tangible Media - November 17th, 2015
 
 ### Introduction
-  - [ITP] [itp] (my work) 
+  - [ITP] [itp] (my work)
     -  [Internot] [internot]
     -  [Trajectory] [trajectory]
     -  [Cat Shake] [catshake]
