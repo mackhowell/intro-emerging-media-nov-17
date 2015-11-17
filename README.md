@@ -1,7 +1,7 @@
 # Tangible Media - November 17th, 2015
 
 ### Introduction
-  - ITP (my work)
+  - [ITP] [itp] (my work) 
     -  [Internot] [internot]
     -  [Trajectory] [trajectory]
     -  [Cat Shake] [catshake]
@@ -14,11 +14,6 @@
 
 ### "New" Media Art
 
-
-> Die Zeit: Do you concern yourself with new media and technology?
-
-> Jean-Luc Godard: I try to keep up. But people make films on the Internet to show that they exist, not in order to look at things.
-
 > Skin has become inadequate in interfacing with reality. Technology has become the body's new membrane of existence. - Nam June Paik
 
 #### Art && Installations
@@ -28,11 +23,14 @@
     * [Station to Station] [station] - Kleebtronics (2014)
     * [Super Mario Clouds] [mario-clouds] - Cory Arcangel (2002)
     * [Image Fulgurator] [fulgurator], [diagram] [fulgurator-diagram] - Julius Von Bismark (2007)
+    * [Descriptive Camera] [descriptive-camera] - Matt Richardson (2012)
 * **Installations**
     * [Allvision] [allvision-tech] - Steina Vasulka (1976)
+    * [Lab at Rockwell] [prototype], [Reel] [rockwell-reel] - Installation prototype / Reel
     * [Pulse drip] [pulse-drip] - Rafael-Lozano Hemmer (2008)
     * [The Transfinite] [ryoji-transfinite], [video] [ryoji-video] - Ryoji Ikeda (2012)
     * [Test Patterns] [ryoji-timessquare] - Ryoji Ikeda (2015)
+    * [Hector] [hector] - Jurg Lehni - 2003
     * [Wooden Mirrior] [wooden-mirror] - Danny Rozen (1999)
 * **Other**
     * [Apen Movie Map] [aspen-moviemap] - Michael Naimark (1978)
@@ -52,6 +50,7 @@
 * **Books**
     * [Handmade Instruments] [handmade-electronic-music]
     * [Programming Interactivity] [programming-interactivity]
+    * [Code] [codecode]
 
 
 
@@ -93,4 +92,9 @@
    [hugeinc]: <http://www.hugeinc.com/>
    [swift]: <https://developer.apple.com/swift/>
    [nba-live]: <http://www.hugeinc.com/case-study/ea-sports>
-
+   [codecode]: <http://www.charlespetzold.com/code/>
+   [itp]: <https://tisch.nyu.edu/itp>
+   [prototype]: <https://vimeo.com/51579571>
+   [rockwell-reel]: <https://vimeo.com/117840250>
+   [hector]: <http://juerglehni.com/works/hektor/>
+   [descriptive-camera]: <http://mattrichardson.com/Descriptive-Camera/>
