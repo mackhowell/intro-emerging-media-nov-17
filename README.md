@@ -1,13 +1,16 @@
-# Intro to Emerging Media November 17th
+# Tangible Media - November 17th, 2015
 
 ### Introduction
-  - Intro
   - ITP (my work)
     -  [Internot] [internot]
     -  [Trajectory] [trajectory]
-    -  [Cat Shake] [catshake] // MAKE VIDEO
+    -  [Cat Shake] [catshake]
+  - [Huge] [hugeinc]
+      - [Swift] [swift]
+
+### Project work
   
-### Class Links
+### Links
 
 ### "New" Media Art
 
@@ -22,11 +25,11 @@
 * **Physical Objects**
     * [Handmade Computer] [taeyoon-handmade], [8 bits of ram] [8bitsofram] - Taeyoon Choi (2015)
     * [Bienalle.py] [bienalle-py] - Eva and Franco Mattes (2001)
-    * [Beaureu of Invese Technology (BIT)] [bit] - Natalie Jeremejenko and Kate Rich (2001)
+    * [Station to Station] [station] - Kleebtronics (2014)
     * [Super Mario Clouds] [mario-clouds] - Cory Arcangel (2002)
     * [Image Fulgurator] [fulgurator], [diagram] [fulgurator-diagram] - Julius Von Bismark (2007)
 * **Installations**
-    * [Allvision] [allvision] [Tech-specs] [allvision-tech] - Steina Vasulka (1976)
+    * [Allvision] [allvision-tech] - Steina Vasulka (1976)
     * [Pulse drip] [pulse-drip] - Rafael-Lozano Hemmer (2008)
     * [The Transfinite] [ryoji-transfinite], [video] [ryoji-video] - Ryoji Ikeda (2012)
     * [Test Patterns] [ryoji-timessquare] - Ryoji Ikeda (2015)
@@ -34,18 +37,17 @@
 * **Other**
     * [Apen Movie Map] [aspen-moviemap] - Michael Naimark (1978)
     * [Golden Gate Flyover] [gg-flyover] - Michael Naimark (1987)
+    * [Surrogate Travel] [surrogate-travel] - Early Street View
     * [A Camera Drama] [camera-drama] - workshop w/ Roel Wouters (2014) 
-    * [Freefall Highschore] [freefall-highscore] - James George
+    * [Freefall Highschore] [freefall-highscore] - James George (2011)
 
 #### Reading / Watching / Extra
 * **Artists**
-    * [Woody and Steina Vasulka] [vasulkas] - EAI 
-    * [Nam June Paik] [njp] - EAI
-* **Projects**
+    * [Woody and Steina Vasulka] [vasulkas] 
+    * [Nam June Paik] [njp]
+* **Help / Ideas**
     * [Datasheets] [led-datasheet]
     * [Camera Board] [camera-board]
-    * 
-* **Videos**
     * [Video Synthesizers] [video-synthesizers]
 * **Books**
     * [Handmade Instruments] [handmade-electronic-music]
@@ -61,7 +63,7 @@
 
    [taeyoon-handmade]: <http://taeyoonchoi.com/handmade-computer/>
    [bienalle-py]: <http://0100101110101101.org/biennale-py/>
-   [bit]: <http://bureauit.org/bangbang/>
+   [station]: <http://www.kleebtronics.com/stationtostation>
    [mario-clouds]: <http://www.metmuseum.org/about-the-museum/museum-departments/office-of-the-director/digital-media-department/digital-underground/2014/digital-art-copyism>
    [ryoji-transfinite]: <http://www.armoryonpark.org/programs_events/detail/ryoji_ikeda>
    [freefall-highscore]: <http://jamesgeorge.org/Freefall-Highscore>
@@ -76,8 +78,7 @@
    [njp]: <http://www.eai.org/artistBio.htm?id=481>
    [trajectory]: <https://vimeo.com/94469305>
    [internot]: <https://vimeo.com/90802811>
-   [catshake]: <>
-   [allvision]: <http://clocktower.org/event/steina-vasulka-video-demonstration>
+   [catshake]: <https://vimeo.com/146039829>
    [led-datasheet]: <https://www.sparkfun.com/datasheets/Components/YSL-R542B5C-A11.pdf?_ga=1.245840836.1750574658.1447740292>
    [camera-board]: <https://learn.adafruit.com/ttl-serial-camera/>
    [wooden-mirror]: <https://vimeo.com/101408845>
@@ -88,4 +89,8 @@
    [handmade-electronic-music]: <http://www.amazon.com/Handmade-Electronic-Music-Hardware-Hacking/dp/0415998735>
    [video-synthesizers]: <https://www.youtube.com/watch?v=31EdYM_uO4Q>
    [programming-interactivity]: <http://shop.oreilly.com/product/0636920021735.do>
+   [surrogate-travel]: <http://www.computerhistory.org/atchm/going-places-a-history-of-google-maps-with-street-view/>
+   [hugeinc]: <http://www.hugeinc.com/>
+   [swift]: <https://developer.apple.com/swift/>
+   [nba-live]: <http://www.hugeinc.com/case-study/ea-sports>
 
