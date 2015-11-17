@@ -16,37 +16,40 @@
 
 > Jean-Luc Godard: I try to keep up. But people make films on the Internet to show that they exist, not in order to look at things.
 
+> Skin has become inadequate in interfacing with reality. Technology has become the body's new membrane of existence. - Nam June Paik
+
 #### Art && Installations
-* #### Physical Objects
-    * [Handmade Computer] [8 bits of ram] [taeyoon-handmade] [8bitsofram] - Taeyoon Choi (2015)
+* **Physical Objects**
+    * [Handmade Computer] [taeyoon-handmade], [8 bits of ram] [8bitsofram] - Taeyoon Choi (2015)
     * [Bienalle.py] [bienalle-py] - Eva and Franco Mattes (2001)
     * [Beaureu of Invese Technology (BIT)] [bit] - Natalie Jeremejenko and Kate Rich (2001)
     * [Super Mario Clouds] [mario-clouds] - Cory Arcangel (2002)
-    * [Image Fulgurator] [diagram] [fulgurator] [fulgurator-diagram] - Julius Von Bismark (2007)
-* #### Installations
+    * [Image Fulgurator] [fulgurator], [diagram] [fulgurator-diagram] - Julius Von Bismark (2007)
+* **Installations**
     * [Allvision] [allvision] [Tech-specs] [allvision-tech] - Steina Vasulka (1976)
     * [Pulse drip] [pulse-drip] - Rafael-Lozano Hemmer (2008)
-    * [The Transfinite] [video] [ryoji-transfinite] [ryoji-video] - Ryoji Ikeda (2012)
+    * [The Transfinite] [ryoji-transfinite], [video] [ryoji-video] - Ryoji Ikeda (2012)
     * [Test Patterns] [ryoji-timessquare] - Ryoji Ikeda (2015)
     * [Wooden Mirrior] [wooden-mirror] - Danny Rozen (1999)
-* #### Other
+* **Other**
     * [Apen Movie Map] [aspen-moviemap] - Michael Naimark (1978)
     * [Golden Gate Flyover] [gg-flyover] - Michael Naimark (1987)
-    * [A Camera Drama] [camera-drama] - workshop w/ Roel Wouters (2014)
-    * [Noisefields] [vasulkas-noisefields] - Woody and Steina Vasulk
+    * [A Camera Drama] [camera-drama] - workshop w/ Roel Wouters (2014) 
     * [Freefall Highschore] [freefall-highscore] - James George
 
 #### Reading / Watching / Extra
-* #### Artists
+* **Artists**
     * [Woody and Steina Vasulka] [vasulkas] - EAI 
     * [Nam June Paik] [njp] - EAI
-    * [Handmade instruments] [handmade-electronic-music]
-* #### Projects
-    * [Datasheets] [led-datasheep]
+* **Projects**
+    * [Datasheets] [led-datasheet]
     * [Camera Board] [camera-board]
     * 
-* #### Videos
+* **Videos**
     * [Video Synthesizers] [video-synthesizers]
+* **Books**
+    * [Handmade Instruments] [handmade-electronic-music]
+    * [Programming Interactivity] [programming-interactivity]
 
 
 
@@ -66,7 +69,6 @@
    [aspen-moviemap]: <http://www.naimark.net/projects/aspen.html>
    [gg-flyover]: <http://www.naimark.net/projects/goldengate.html>
    [vasulkas]: <http://www.eai.org/artistBio.htm?id=299>
-   [vasulkas-noisefields]: <https://www.youtube.com/watch?v=wbn00MgqURk>
    [fulgurator]: <http://www.wired.com/2008/06/exclusive-inter/>
    [fulgurator-diagram]: <http://juliusvonbismarck.com/bank/index.php?/projects/image-fulgurator/2/>
    [training-device]: <http://www.thegreeneyl.com/training-device>
@@ -85,4 +87,5 @@
    [8bitsofram]: <http://taeyoonchoi.com/2014/08/8-bit-ram/>
    [handmade-electronic-music]: <http://www.amazon.com/Handmade-Electronic-Music-Hardware-Hacking/dp/0415998735>
    [video-synthesizers]: <https://www.youtube.com/watch?v=31EdYM_uO4Q>
+   [programming-interactivity]: <http://shop.oreilly.com/product/0636920021735.do>
 
