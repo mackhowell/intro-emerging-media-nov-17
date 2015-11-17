@@ -16,35 +16,37 @@
 
 > Jean-Luc Godard: I try to keep up. But people make films on the Internet to show that they exist, not in order to look at things.
 
-#### Artists
-* ##### Physical Objects
-    * [Handmade Computer] [taeyoon-handmade] - Taeyoon Choi
-    * [Bienalle.py] [bienalle-py] - Eva and Franco Mattes
-    * [Beaureu of Invese Technology (BIT)] [bit] - Natalie Jeremejenko and Kate Rich
-    * [Super Mario Clouds] [mario-clouds] - Cory Arcangel
-    * [Image Fulgurator] [fulgurator] - Julius Von Bismark
-    * [Training Device] [training-device] - The Green Eyl
-* ##### Installations
-    * [Allvision] [allvision] - Steina Vasulka  // GET LINK TO VIDEO
-    * [The Transfinite] [ryoji-transfinite] - Ryoji Ikeda
-    * [Pulse drip] [pulse-drip] - Rafael-Lozano Hemmer
-    * [ESP TV] [esp-tv]
-* ##### Other
-    * [Apen Movie Map] [aspen-moviemap] - Michael Naimark
-    * [Golden Gate Flyover] [gg-flyover] - Michael Naimark
-    * [A Camera Drama] [camera-drama] - workshop w/ Roel Wouters
-    * [Noisefields] [vasulkas-noisefields] - Woody and Steina Vasulka
+#### Art && Installations
+* #### Physical Objects
+    * [Handmade Computer] [8 bits of ram] [taeyoon-handmade] [8bitsofram] - Taeyoon Choi (2015)
+    * [Bienalle.py] [bienalle-py] - Eva and Franco Mattes (2001)
+    * [Beaureu of Invese Technology (BIT)] [bit] - Natalie Jeremejenko and Kate Rich (2001)
+    * [Super Mario Clouds] [mario-clouds] - Cory Arcangel (2002)
+    * [Image Fulgurator] [diagram] [fulgurator] [fulgurator-diagram] - Julius Von Bismark (2007)
+* #### Installations
+    * [Allvision] [allvision] [Tech-specs] [allvision-tech] - Steina Vasulka (1976)
+    * [Pulse drip] [pulse-drip] - Rafael-Lozano Hemmer (2008)
+    * [The Transfinite] [video] [ryoji-transfinite] [ryoji-video] - Ryoji Ikeda (2012)
+    * [Test Patterns] [ryoji-timessquare] - Ryoji Ikeda (2015)
+    * [Wooden Mirrior] [wooden-mirror] - Danny Rozen (1999)
+* #### Other
+    * [Apen Movie Map] [aspen-moviemap] - Michael Naimark (1978)
+    * [Golden Gate Flyover] [gg-flyover] - Michael Naimark (1987)
+    * [A Camera Drama] [camera-drama] - workshop w/ Roel Wouters (2014)
+    * [Noisefields] [vasulkas-noisefields] - Woody and Steina Vasulk
     * [Freefall Highschore] [freefall-highscore] - James George
-    * [First .gif in space] [asendorf-gif] - Kim Asendorf
 
-
-#### Reading
-* ##### Artists
+#### Reading / Watching / Extra
+* #### Artists
     * [Woody and Steina Vasulka] [vasulkas] - EAI 
     * [Nam June Paik] [njp] - EAI
-
-
-
+    * [Handmade instruments] [handmade-electronic-music]
+* #### Projects
+    * [Datasheets] [led-datasheep]
+    * [Camera Board] [camera-board]
+    * 
+* #### Videos
+    * [Video Synthesizers] [video-synthesizers]
 
 
 
@@ -65,9 +67,8 @@
    [gg-flyover]: <http://www.naimark.net/projects/goldengate.html>
    [vasulkas]: <http://www.eai.org/artistBio.htm?id=299>
    [vasulkas-noisefields]: <https://www.youtube.com/watch?v=wbn00MgqURk>
-   [esp-tv]: <http://www.esptv.com/read-me/>
-   [asendorf-gif]: <http://kimasendorf.com/first-gif-sent-into-deep-space/>
    [fulgurator]: <http://www.wired.com/2008/06/exclusive-inter/>
+   [fulgurator-diagram]: <http://juliusvonbismarck.com/bank/index.php?/projects/image-fulgurator/2/>
    [training-device]: <http://www.thegreeneyl.com/training-device>
    [camera-drama]: <https://vimeo.com/62869207>
    [njp]: <http://www.eai.org/artistBio.htm?id=481>
@@ -75,10 +76,13 @@
    [internot]: <https://vimeo.com/90802811>
    [catshake]: <>
    [allvision]: <http://clocktower.org/event/steina-vasulka-video-demonstration>
-   
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]:  <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-
+   [led-datasheet]: <https://www.sparkfun.com/datasheets/Components/YSL-R542B5C-A11.pdf?_ga=1.245840836.1750574658.1447740292>
+   [camera-board]: <https://learn.adafruit.com/ttl-serial-camera/>
+   [wooden-mirror]: <https://vimeo.com/101408845>
+   [ryoji-video]: <https://vimeo.com/68597939>
+   [ryoji-timessquare]: <https://www.youtube.com/watch?v=JfcN9Qhfir4>
+   [allvision-tech]: <http://www.vasulka.org/Steina/Steina_AllVision/AllVision.html>
+   [8bitsofram]: <http://taeyoonchoi.com/2014/08/8-bit-ram/>
+   [handmade-electronic-music]: <http://www.amazon.com/Handmade-Electronic-Music-Hardware-Hacking/dp/0415998735>
+   [video-synthesizers]: <https://www.youtube.com/watch?v=31EdYM_uO4Q>
 
