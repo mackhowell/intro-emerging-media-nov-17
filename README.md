@@ -3,6 +3,7 @@
 ### Introduction
   - [ITP] [itp] (my work)
     -  [Internot] [internot]
+    -  [Magnetic Boogie] [magnetic-boogie]
     -  [Trajectory] [trajectory]
     -  [Cat Shake] [catshake]
   - [Huge] [hugeinc]
@@ -98,3 +99,4 @@
    [rockwell-reel]: <https://vimeo.com/117840250>
    [hector]: <http://juerglehni.com/works/hektor/>
    [descriptive-camera]: <http://mattrichardson.com/Descriptive-Camera/>
+   [magnetic-boogie]: <https://vimeo.com/55129101>
