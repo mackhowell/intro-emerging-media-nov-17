@@ -13,8 +13,6 @@
   
 ### Links
 
-### "New" Media Art
-
 > Skin has become inadequate in interfacing with reality. Technology has become the body's new membrane of existence. - Nam June Paik
 
 #### Art && Installations
